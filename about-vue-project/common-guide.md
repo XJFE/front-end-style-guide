@@ -37,6 +37,16 @@
 + 可以选择使用CSS,Less,Sass语言;建议使用Sass
 + 关于公共的类每次添加的时候都要表明好注释,说明是用于哪个部分
 
+```
+<style lang="scss" scoped>
+  $red: #fa4a4a;
+
+  .game-center {
+    color: $red;
+  }
+</style>
+```
+
 ### 关于静态资源的处理
 + `css`文件夹放置整个应用的公用样式
 + `lib`文件夹放置我们需要的类库
