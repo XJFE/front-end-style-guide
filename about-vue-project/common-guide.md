@@ -37,7 +37,7 @@
 + 可以选择使用CSS,Less,Sass语言;建议使用Sass
 + 关于公共的类每次添加的时候都要表明好注释,说明是用于哪个部分
 
-```
+``` html
 <style lang="scss" scoped>
   $red: #fa4a4a;
 
