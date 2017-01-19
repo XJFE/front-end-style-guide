@@ -1,5 +1,6 @@
 + about-vue-project(关于Vue项目)
-    - [common-guide](about-vue-project/common-guide.md)
+    - [规范](about-vue-project/standard-guide.md)
+    - [项目](about-vue-project/common-guide.md)
 + baout-server-mock(关于后端模拟)
     - [common-guide](about-server-mock/common-guide.md)
 + about-git-branch(关于分支的使用)
